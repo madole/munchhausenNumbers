@@ -2,8 +2,8 @@ A Münchhausen number (sometimes spelled Münchausen number, with a single 'h') 
 
 If 0s are disallowed (since 0^0 is not well-defined), the only Münchhausen numbers are 
     
-    1 
+>1 
     
-    and
+and
 
-    3435=3^3+4^4+3^3+5^5. 
+>3435=3^3+4^4+3^3+5^5. 
